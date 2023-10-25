@@ -1,0 +1,10 @@
+{
+  "setupTasks": [],
+  "tasks": {
+    "Run jar file": {
+      "name": "interview-boot",
+      "command": "./gradlew bootrun",
+      "runAtStart": true
+    }
+  }
+}
